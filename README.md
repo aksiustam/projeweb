@@ -1,7 +1,7 @@
 # projeweb
 Danışmanlar için yapılmış proje websitesi
 
-Site linki : https://webprojetakip.000webhostapp.com/
+Site linki : https://webprojetakip.000webhostapp.com/     //webhostapp sitesi türkiyeye kapalıdır vpn kullanın lütfen.
 
 Site Öğrenci girişi : 1
 
